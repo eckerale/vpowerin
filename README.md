@@ -17,7 +17,7 @@ net install vpowerin, from("https://raw.githubusercontent.com/eckerale/vpowerin/
 ```
 
 ## Dependencies
-`vpowerin` requires the user-written package `moremata` (http://fmwww.bc.edu/RePEc/bocode/m) by Ben Jann (2005) to be installed.
+`vpowerin` requires the user-written package [moremata](http://fmwww.bc.edu/RePEc/bocode/m/moremata.html) by Ben Jann (2005) to be installed.
 
 ## Syntax
 ```Stata
