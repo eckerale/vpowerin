@@ -1,0 +1,3 @@
+v 1.0
+d A. Ecker, Mannheim Centre for European Social Research, University of Mannheim.
+p vpowerin Stata module to calculate various voting power indices

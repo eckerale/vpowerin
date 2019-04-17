@@ -1,0 +1,10 @@
+v 0.9.1
+d vpowerin. Stata module to calculate various voting power indices.
+d A. Ecker, Mannheim Centre for European Social Research, University of Mannheim.
+d vpowerin implements dynamic programming algorithms to calculate various voting power indices. After installation, see help vpowerin.
+d
+d Distribution-Date: 20190412
+d
+d Support: alejandro.ecker@mzes.uni-mannheim.de
+f vpowerin.ado
+f vpowerin.sthlp
