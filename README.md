@@ -4,6 +4,11 @@ Stata module to calculate various voting power indices.
 <br>
 
 ## Description
+`vpowerin` implements dynamic programming algorithms (Kurz 2016) to calculate various voting power indices. In addition, `vpowerin` alternatively implements generating functions and methods of direct enumeration (see options below).
+
+You may either calculate the Shapley-Shubik power index, the absolute and the standardized Banzhaf index, or all three indices by specifying the respective options.
+
+`vpowerin` also calculates the effective number of parties if required. Finally, `vpowerin` also estimates all possible minimal winning coalitions.
 
 ## Installation
 You can install the latest version of `vpowerin` by executing the following code:
