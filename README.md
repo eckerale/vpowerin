@@ -39,7 +39,7 @@ net install vpowerin, from("https://raw.githubusercontent.com/eckerale/vpowerin/
 
 ## Saved results
 
-## Refereces
+## References
 
 ## Author
 A. Ecker<br>
