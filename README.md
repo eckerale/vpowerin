@@ -33,7 +33,7 @@ net install vpowerin, from("https://raw.githubusercontent.com/eckerale/vpowerin/
 `noprint` suppresses the output.<br>
 
 ## Remarks
-`vpowerin` requires the data to be in long format. Use the `reshape command if your data are in wide format. Also note that `vpowerin` uses absolute weights (e.g., number of seats in the legislature).
+`vpowerin` requires the data to be in long format. Use the `reshape` command if your data are in wide format. Also note that `vpowerin` uses absolute weights (e.g., number of seats in the legislature).
 
 ## Examples
 
@@ -47,3 +47,5 @@ Mannheim Centre for European Social Research, University of Mannheim.<br>
 Please email to alejandro.ecker@mzes.uni-mannheim.de if you observe any problems.
 
 ## How to cite
+Thanks for citing this Stata module as follows:<br>
+Ecker, Alejandro. 2019. vpowerin: Stata module to calculate various voting power indices. Available from "https://github.com/eckerale/vpowerin".
