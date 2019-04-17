@@ -13,7 +13,7 @@ You may either calculate the Shapley-Shubik power index, the absolute and the st
 ## Installation
 You can install the latest version of `vpowerin` by executing the following code:
 ```Stata
-net install vpowerin, from("https://raw.githubusercontent.com/eckerale/vpowerin/master"
+net install vpowerin, from("https://raw.githubusercontent.com/eckerale/vpowerin/master")
 ```
 
 ## Syntax
